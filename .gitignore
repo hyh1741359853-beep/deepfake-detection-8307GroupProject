@@ -1,0 +1,9 @@
+data/
+weights/
+heatmaps/
+results/
+__pycache__/
+*.zip
+*.pth
+.streamlit/
+
